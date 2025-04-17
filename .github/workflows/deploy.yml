@@ -11,4 +11,4 @@ jobs:
 
         steps:
             - name: Hello World 찍기
-              uses: echo "Hello, world!"
+              run: echo "Hello, world!"
